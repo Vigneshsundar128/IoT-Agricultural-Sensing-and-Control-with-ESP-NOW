@@ -2,8 +2,11 @@
 Sensing agricultural data and transmitting it to node for monitoring and controlling the actuators with Web-Dashboard
 
 # Smart Agriculture IoT Dashboard
+![image](https://github.com/Vigneshsundar128/IoT-Agricultural-Sensing-and-Control-with-ESP-NOW/assets/65441369/7209c18c-3d2e-4c2d-a285-c678b0dcf338)
 
-![Dashboard Preview](dashboard_preview.png)
+# Schematic for connection
+![image](https://github.com/Vigneshsundar128/IoT-Agricultural-Sensing-and-Control-with-ESP-NOW/assets/65441369/0c0714f0-8c72-4785-88cb-5421a84754db)
+
 
 ## Overview
 
@@ -69,7 +72,7 @@ We welcome contributions from the community. If you have ideas for improvements 
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
