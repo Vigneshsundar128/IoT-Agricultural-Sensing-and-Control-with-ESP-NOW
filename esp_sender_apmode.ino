@@ -74,7 +74,7 @@ void connect_esp32_wifi_network(char* ssid, char* password) {
 // ESP-NOW handling
 // ----------------------------------------------------------------------------
 
-constexpr uint8_t ESP_NOW_RECEIVER[] = { 0x30, 0xC6, 0xF7, 0x2A, 0x0F, 0xCC};
+constexpr uint8_t ESP_NOW_RECEIVER[] = { 0x30, 0xC6, 0xF7, 0x2A, 0x0F, 0xCC}; // Enter the Mac ID of your receiver node.
 esp_now_peer_info_t peerInfo;
 bool channelFound = false;
 uint8_t channel = 1;
