@@ -75,6 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by the need to modernize agriculture and make it more data-driven and efficient.
 - We would like to thank the open-source community for their contributions to the libraries and tools used in this project.
-         -[randomnerdtutorials](randomnerdtutorials.com)
-         -[ESP-NOW-WiFi-Gateway](https://github.com/lukalafaye/ESP-NOW-WiFi-Gateway) 
+   - [randomnerdtutorials](randomnerdtutorials.com)
+   - [ESP-NOW-WiFi-Gateway](https://github.com/lukalafaye/ESP-NOW-WiFi-Gateway) 
+   
 
