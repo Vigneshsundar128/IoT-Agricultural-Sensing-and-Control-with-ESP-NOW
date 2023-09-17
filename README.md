@@ -46,7 +46,7 @@ The system is designed to:
 ### Installation
 
 1. Clone this repository to your local machine.
-2. Open the Arduino IDE and load the code for the central node (`central_node/central_node.ino`) and the sensor nodes (`sensor_node/sensor_node.ino`).
+2. Open the Arduino IDE and load the code for the central node (`esp_receiver_ap+wifi_mode.ino`) and the sensor nodes (`esp_sender_apmode.ino`).
 3. Customize the Wi-Fi credentials and other configuration settings in the code to match your network and requirements.
 4. Upload the code to the ESP32 boards.
 5. Connect the sensors and actuators to the appropriate pins on the ESP32 boards.
