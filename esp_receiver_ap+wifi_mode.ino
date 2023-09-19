@@ -16,8 +16,8 @@
 char* WIFI_AP_SSID = "esp32";       //REPLACE_WITH_YOUR_AP_SSID
 char* WIFI_AP_PASS = "12345678";    //REPLACE_WITH_YOUR_AP_PASSWORD
 
-char* WIFI_SSID = "Hashcode";       //REPLACE_WITH_YOUR_AP_SSID
-char* WIFI_PASS = "gN4XGvt6";       //REPLACE_WITH_YOUR_AP_PASSWORD
+char* WIFI_SSID = "********";       //REPLACE_WITH_YOUR_AP_SSID
+char* WIFI_PASS = "********";       //REPLACE_WITH_YOUR_AP_PASSWORD
 
 // To check the parameters passed on the URL 
 const char* PARAM_INPUT_1 = "output";
